@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84641587459",
+    "project_id": "mrem-chat-backend",
+    "storage_bucket": "mrem-chat-backend.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84641587459:android:5db23942a36b17d51bc936",
+        "android_client_info": {
+          "package_name": "com.example.mremchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKsYgbrmB4rCb1YOoNi9siZaAbcafgHj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
