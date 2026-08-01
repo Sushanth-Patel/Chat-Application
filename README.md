@@ -49,5 +49,8 @@ UI → Adapters → Models → Firebase
 - **Architecture**: UI → Adapters → Models → Firebase
 
 ---
+**Click to download the App**
+
+[![Download APK](https://img.shields.io/badge/Download-APK-blue)](https://github.com/Sushanth-Patel/Chat-Application/releases/download/v1.0.0/app-debug.apk)
 
 ---
