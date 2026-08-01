@@ -1,4 +1,4 @@
-<h1 align="center">💬 Chat App</h1>
+<h1 align="center"> Chat App 💭</h1>
 <p align="center">
   Real-time Android messaging powered by Firebase  
 </p>
