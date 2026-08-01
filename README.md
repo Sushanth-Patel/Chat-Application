@@ -31,10 +31,23 @@ UI → Adapters → Models → Firebase
 
 ---
 
-## ⚡ Key Capabilities
+## 🚀 Key Features
 
-- Phone authentication (OTP)
-- Real-time messaging (Firestore listeners)
-- User discovery (search)
-- Recent conversations
-- Push notifications (FCM)
+| Feature | Description |
+|---------|-------------|
+| 📱 **Phone Authentication (OTP)** | Secure sign-in using one-time passwords via Firebase Authentication |
+| 💬 **Real-time Messaging** | Instant message delivery powered by Firestore snapshot listeners |
+| 🔍 **User Discovery** | Search and find other users to start conversations |
+| 📋 **Recent Conversations** | View and resume your latest chats |
+| 🔔 **Push Notifications** | Stay updated with new messages via Firebase Cloud Messaging |
+
+## 🛠️ Tech Stack
+
+- **Language**: Kotlin / Java (Android)
+- **Backend**: Firebase — Authentication, Firestore, Cloud Messaging
+- **Build Tool**: Gradle (Kotlin DSL)
+- **Architecture**: UI → Adapters → Models → Firebase
+
+---
+
+---
